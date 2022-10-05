@@ -1,0 +1,12 @@
+import styled from "styled-components";
+
+
+export const LayoutStyled = styled.div`
+display:flex; 
+width: 200px
+
+`
+ 
+
+
+
