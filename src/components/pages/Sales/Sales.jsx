@@ -8,7 +8,7 @@ const navItems = [
 
 
 
-export const Sales = () => {
+const Sales = () => {
   return (
     <main style={{borderBottom:"1px solid black", height:"50px"}} >
       <header>
@@ -24,3 +24,5 @@ export const Sales = () => {
     </main>
   );
 };
+
+export default Sales
